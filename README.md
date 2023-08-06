@@ -1,6 +1,8 @@
- 👋 Hi there I am a  **Backend** **Developer**. 💻
- I am always eager to learn new programming languages and I maintain a diligent and hard-working attitude. 🙌
+ 👋 Hi there I am a  **Backend** **Developer**. 🚀 <br>
+ I am always eager to learn new programming languages <br>
+ I maintain a diligent and hard-working attitude. 🙌
 
+ 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/lilya9bat@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/xunkai_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
