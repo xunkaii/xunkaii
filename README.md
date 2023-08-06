@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 ### 💪 Skills
 
 ## Platforms & Language
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=openjdk&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JSP/SERVLET-004027?style=flat-square&logo=Jameson&logoColor=white"/></a>
 
