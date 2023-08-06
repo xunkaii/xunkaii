@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://img.shields.io/badge/Gmail.-EA4335?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
